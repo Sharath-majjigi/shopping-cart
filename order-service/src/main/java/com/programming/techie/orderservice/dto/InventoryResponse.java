@@ -1,4 +1,4 @@
-package com.programming.techie.discoveryserver.orderservice.dto;
+package com.programming.techie.orderservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

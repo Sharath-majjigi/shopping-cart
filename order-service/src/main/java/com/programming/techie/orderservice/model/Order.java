@@ -1,4 +1,4 @@
-package com.programming.techie.discoveryserver.orderservice.model;
+package com.programming.techie.orderservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
